@@ -1,0 +1,20 @@
+{
+  "event_id": "evt_001",
+  "event_version": "v1",
+  "event_type": "product_viewed",
+
+  "event_source": "web_app",
+
+  "event_timestamp": "2026-06-15T00:11:57Z",
+
+  "user_id": "usr_001",
+  "session_id": "sess_123",
+
+  "product_id": "prd_011",
+
+  "price_cents": 12345,
+  "currency": "EUR",
+
+  "country_code": "DE",
+  "device_type": "mobile"
+}

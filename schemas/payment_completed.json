@@ -1,0 +1,15 @@
+{
+  "event_id": "<GENERATED>",
+  "event_version": "v1",
+  "event_type": "payment_completed",
+  "event_source": "<GENERATED>",
+  "event_timestamp": "<GENERATED>",
+  "user_id": "<GENERATED>",
+  "session_id": "<GENERATED>",
+  "order_id": "<GENERATED>",
+  "order_amount_cents": 0,
+  "payment_mode": "<GENERATED>",
+  "currency": "EUR",
+  "country_code": "<GENERATED>",
+  "device_type": "<GENERATED>"
+}

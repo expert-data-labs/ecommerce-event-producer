@@ -1,0 +1,19 @@
+{
+  "event_id": "<GENERATED>",
+  "event_version": "v1",
+  "event_type": "product_viewed",
+  "event_source": "<GENERATED>",
+  "event_timestamp": "<GENERATED>",
+
+  "user_id": "<GENERATED>",
+  "session_id": "<GENERATED>",
+
+  "product_id": "<GENERATED>",
+  "product_price": "<GENERATED>",
+  "product_name": "<GENERATED>",
+  "category": "<GENERATED>",
+
+  "currency": "EUR",
+  "country_code": "<GENERATED>",
+  "device_type": "<GENERATED>"
+}
